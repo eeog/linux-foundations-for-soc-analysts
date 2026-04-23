@@ -1,0 +1,16 @@
+# Sample Output from Linux Enumeration
+
+Current directory contents:
+ls
+---------------------------
+bin
+boot
+etc
+home
+usr
+var
+
+Working directory:
+pwd
+---------------------------
+/home/user
