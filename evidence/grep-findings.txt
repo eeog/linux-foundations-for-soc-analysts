@@ -1,0 +1,7 @@
+# Example grep findings (sanitised)
+
+Searching for keyword: "password"
+---------------------------------
+
+/home/user/notes.txt: Contains the string "password"
+/etc/config/settings.conf: Contains the string "password"
